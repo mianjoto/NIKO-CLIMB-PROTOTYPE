@@ -17,8 +17,6 @@ This game is a 2D platformer prototype intended to demonstrate the main gameplay
 ## Play the game :)
 You can play the prototype for NIKO CLIMB in your browser [here](https://mianjoto.itch.io/niko-climb)!
 
-![Play NIKO CLIMB on itch.io webpage](./Documents/gameplay-demos/screenshots/itch-io-web-gl-play-niko-climb.jpg)
-
 ## Screenshots 📷
 ![Animation demonstrating unlock door powerup](./Documents/gameplay-demos/videos/pick-up-key-powerup.gif)
 ![Animation demonstrating shield and physics manipulation](./Documents/gameplay-demos/videos/shield-and-physics-jump.gif)
