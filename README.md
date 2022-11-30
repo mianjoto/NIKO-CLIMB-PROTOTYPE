@@ -1,9 +1,8 @@
 # **NIKO CLIMB**
 
 <p align="center">
-    <!-- <img src="./Documents/gameplay-demos/videos/pick-up-key-powerup.gif" width=90%> <br> -->
-    <img src="./Assets/Build/NIKO-CLIMB-logo-800x800.jpg" width=80%> <br>
-    <p align="center" style="font-weight: 500;">Try to ascend a burning building while hordes of enemies try to stop you 😱😱</p>
+    <img src="./Assets/Build/NIKO-CLIMB-logo-800x800.jpg" width=50%> <br>
+    <small align="center" style="font-weight: 500;">Ascend a burning building while hordes of enemies try to stop you 😱😱</small>
 </p>
 
 ---
@@ -13,7 +12,7 @@
 
 Ascend the building while clearing out hordes of enemies to get to the next floor. Get as high as you can to escape the flames!
 
-This game is a prototype intended to demonstrate the main gameplay features—keep posted for updates!
+This game is a 2D platformer prototype intended to demonstrate the main gameplay features—keep posted for updates!
 
 ## Play the game :)
 You can play the prototype for NIKO CLIMB in your browser [here](https://mianjoto.itch.io/niko-climb)!
